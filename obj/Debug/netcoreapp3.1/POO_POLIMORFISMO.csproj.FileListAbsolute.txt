@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\POO_POLIMORFISMO\bin\Debug\netcoreapp3.1\POO_POLIMORFISMO.exe
+C:\Users\dev\Desktop\POO_POLIMORFISMO\bin\Debug\netcoreapp3.1\POO_POLIMORFISMO.deps.json
+C:\Users\dev\Desktop\POO_POLIMORFISMO\bin\Debug\netcoreapp3.1\POO_POLIMORFISMO.runtimeconfig.json
+C:\Users\dev\Desktop\POO_POLIMORFISMO\bin\Debug\netcoreapp3.1\POO_POLIMORFISMO.runtimeconfig.dev.json
+C:\Users\dev\Desktop\POO_POLIMORFISMO\bin\Debug\netcoreapp3.1\POO_POLIMORFISMO.dll
+C:\Users\dev\Desktop\POO_POLIMORFISMO\bin\Debug\netcoreapp3.1\POO_POLIMORFISMO.pdb
+C:\Users\dev\Desktop\POO_POLIMORFISMO\obj\Debug\netcoreapp3.1\POO_POLIMORFISMO.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\POO_POLIMORFISMO\obj\Debug\netcoreapp3.1\POO_POLIMORFISMO.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\POO_POLIMORFISMO\obj\Debug\netcoreapp3.1\POO_POLIMORFISMO.AssemblyInfo.cs
+C:\Users\dev\Desktop\POO_POLIMORFISMO\obj\Debug\netcoreapp3.1\POO_POLIMORFISMO.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\POO_POLIMORFISMO\obj\Debug\netcoreapp3.1\POO_POLIMORFISMO.dll
+C:\Users\dev\Desktop\POO_POLIMORFISMO\obj\Debug\netcoreapp3.1\POO_POLIMORFISMO.pdb
+C:\Users\dev\Desktop\POO_POLIMORFISMO\obj\Debug\netcoreapp3.1\POO_POLIMORFISMO.genruntimeconfig.cache
